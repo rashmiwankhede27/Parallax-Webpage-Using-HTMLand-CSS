@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+    /*style body*/
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.parallax-1{
+    width: 100%;
+    height: 600px;
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzs5OC7VlDiYCJKUtmMwiRU8Hvm6o9ZtPMUA&usqp=CAU);
+    
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+
+.parallax-1 h2{
+    margin: auto;
+    position: relative;
+    left: 500x;
+    top: 300px;
+    width: 250px;
+    height: 30px;
+    padding: 40px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.parallax-2{
+    width: 100%;
+    height: 600px;
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQhx-p_2DIrRzs9Cv5q0Wyi6d25WDujqQb3xLuBx2ABIhs-6Z-S5383cwIu_TemV6IhSA&usqp=CAU);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+.parallax-2 h2{
+    margin: auto;
+    position: relative;
+    left: 500px;
+    top: 300px;
+    width: 250px;
+    height: 37px;
+    padding: 10px;
+    background-color: white;
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.parallax-3{
+    width: 100%;
+    height: 600px;
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9EOTu8Ern27F3qf20s-euV4ZVcOxEPJ22OOU0BMC_bVAm7eAlRpmpN048GxLnDBg5t7U&usqp=CAU);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+.parallax-3 h2{
+    margin: auto;
+    position: relative;
+    left: 500px;
+    top: 300px;
+    width: 250px;
+    height: 37px;
+    padding: 10px;
+    background-color: white;
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.parallax-4{
+    width: 100%;
+    height: 600px;
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtIfRVsrrpiwiIbh7XWXvjV25GfbX5up1odLpQdXOqxos7cjNl7ESnN_vN_anTlhz6fpw&usqp=CAU);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+.parallax-4 h2{
+    margin: auto;
+    position: relative;
+    left: 500px;
+    top: 300px;
+    width: 250px;
+    height: 37px;
+    padding: 10px;
+    background-color: white;
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+
+
+.para-1{
+    padding: 50px;
+    background-color: black;
+    color: white;
+    font-size: 17px;
+
+}
+
+.para-2{
+    
+    padding: 25px;
+    font-size: 17px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+    color: white;
+
+}
+
+.para-3{
+    padding: 25px;
+    font-size: 17px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+    color: white;
+}
+
+.para-4{
+    padding: 25px;
+    font-size: 17px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+    color: white;
+}
+
+
+
+</style>
+</head>
+<body>
+    <div class="parallax-1">
+        <h2>INFORMATION </h2>
+    </div>
+
+
+    <div class="parallax-2">
+        <h2>PYTHON</h2>
+    </div>
+
+    <div class="para-2">
+        <p>
+            
+            <h4>ABOUT PYTHON:-</h4>
+            Python is a general Purpose ,interactive ,object oriend and high level programing language.
+            It was developed by Gudio VanRossum.Python works on different platforms.It's has simple synatx similar to english language.
+            Python runs on and interuprited system means that code can be execute as soon as it is written.
+            <br>
+            <br>
+            <h4>FEATURES OF PYTHON:-</h4>
+            1) Simple and Easy to learn.<br>
+            2) Free and Open source.<br>
+            3) High level Programing Langauge.<br>
+            4) Platform Independent.<br>
+            5) Procedure as well as object oriented.<br>
+        </p>
+    </div>
+  
+    </div>
+    <div class="parallax-3">
+        <h2>HTML CSS<br></h2>
+    </div>
+    <div class="para-3">
+       <b>HTML(Hyper Text Markup Langauge)</b><br>
+       HTML is the standard markup language for documents designed to be displayed in a web browser. 
+       HTML code ensures the proper formatting of text and images for your Internet browser. 
+       Without HTML, a browser would not know how to display text as elements or load images or other elements.
+       <br>
+       <br>
+       <b>FEATURES:-</b>
+       ~ It is easy to learn and easy to use.<br>
+       ~ It is platform-independent.<br>
+       ~ Images, videos, and audio can be added to a web page.<br>
+       ~ Hypertext can be added to the text.<br>
+       ~ It is a markup language.<br>
+       <br>
+       <br>
+       
+        <b>CSS(Cascading Style Sheet)</b><br>
+        Cascading Style Sheets (CSS) first dropped in 1996, and it remains an essential, evolving part of the web development stack.
+        Cascading Style Sheets (CSS) is a stylesheet language used to describe the presentation of a document written in HTML.
+
+
+
+
+    </div>
+
+    <div class="parallax-4">
+        <h2>PROJECTS</h2>
+    </div>
+    <div class="para-4">
+        <p>
+          <h3> 1)Contactless Canvas using openCV!!<br></h3>
+
+           <h3>2)Online college Simulator!!<br></h3>
+
+           <h3>3)Parallax Web page</h3>
+        </p>
+
+    </div>
+    <div class="para-4">
+        <p>
+            <center>
+            <b>!!!!Interest in Drawing and learn new things!!!!</b>
+            </center>
+        </p>
+    
+</body>
+</html>
